@@ -1,3 +1,12 @@
+/*
+ Singleton pattern
+Command pattern
+Proxy Pattern
+Bridge Pattern
+Templete Method
+Composite Pattern
+Iterator pattern
+ */
 
 // Singleton pattern
 
@@ -139,7 +148,7 @@ class DeviceControl {
     }
 }
 
-// Templete mehotel control : Morning routine
+// Templete method control : Morning routine
 abstract class Routine {
 
     protected void wakup() {
